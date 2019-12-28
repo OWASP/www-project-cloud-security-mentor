@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Ashish Kurmi](mailto://)
+* [Ashish Kurmi](mailto:)
